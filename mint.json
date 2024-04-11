@@ -3,16 +3,17 @@
   "name": "OmniLocal",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://omnilocal.com"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#64B4Ed",
+    "light": "#64B4ed",
+    "dark": "#64B4Ed",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#64B4ed",
+      "to": "#64B4ed"
     }
   },
   "topbarLinks": [
