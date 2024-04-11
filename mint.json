@@ -39,14 +39,9 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://OmniLocal.com/blog"
+      "url": "https://OmniLocal.com/posts"
     }
   ],
   "navigation": [
@@ -61,12 +56,8 @@
     {
       "group": "Guides",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "guides/GLSA",
+        "guides/google-business-profiles"
       ]
     },
     {
