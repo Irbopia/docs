@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "OmniLocal",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "support@OmniLocal.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://omnilocal.com"
   },
   "tabs": [
     {
@@ -45,7 +45,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://OmniLocal.com/blog"
     }
   ],
   "navigation": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Guides",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "youtube": "https://www.youtube.com/@omnilocalai",
+    "facebook": "https://www.facebook.com/OmniLocalCo/",
+    "linkedin": "https://www.linkedin.com/company/omnilocal-co/"
   }
 }
